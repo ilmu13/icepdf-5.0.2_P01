@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="core/src"/>
-	<classpathentry kind="src" path="core/conf"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/batik-awt-util.jar"/>
 	<classpathentry kind="lib" path="lib/batik-dom.jar"/>
